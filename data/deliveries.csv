@@ -1,0 +1,10 @@
+delivery,so,customer,ship_to_state,carrier,weight_lb,shipping_cost,shipped
+WH/OUT/00001,S00001,Coastal Workspace Outfitters,FL,Coastal Express,20.4,13.5,2026-10-17
+WH/OUT/00002,S00002,Peachtree Office Interiors,GA,Coastal Express,32.5,13.5,2026-10-17
+WH/OUT/00003,S00003,Blue Ridge Learning Supply,NC,Coastal Express,20.2,13.5,2026-10-17
+WH/OUT/00004,S00004,Lowcountry Coworking Co.,SC,Coastal Express,23.8,13.5,2026-10-18
+WH/OUT/00005,S00005,Prairie Desk & Chair,KS,Bluepeak Freight,13.8,19.18,2026-10-18
+WH/OUT/00006,S00006,Volunteer State Business Supply,TN,Bluepeak Freight,26.8,33.48,2026-10-18
+WH/OUT/00007,S00007,Lakeshore Remote Works,MI,Summit Parcel,46.2,70.68,2026-10-19
+WH/OUT/00008,S00008,Coastal Workspace Outfitters,FL,Coastal Express,14.4,13.5,2026-10-19
+WH/OUT/00009,S00009,Blue Ridge Learning Supply,NC,Coastal Express,24.0,13.5,2026-10-19

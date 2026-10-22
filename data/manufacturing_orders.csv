@@ -1,0 +1,8 @@
+mo,product,qty_planned,qty_produced,state,started,finished,planned_finish,baseline_milestone
+WH/MO/00001,[FG-001] Desk Organizer,24,24,done,2026-10-09,2026-10-15,2026-10-15,M7
+WH/MO/00002,[FG-002] Monitor Stand,22,22,done,2026-10-09,2026-10-15,2026-10-15,M7
+WH/MO/00003,[FG-003] Cable Tray,27,27,done,2026-10-09,2026-10-12,2026-10-12,M3
+WH/MO/00004,[FG-004] Laptop Riser,22,0,cancel,2026-10-09,2026-10-13,2026-10-13,"M5 (cancelled, I1)"
+WH/MO/00005,[FG-004] Laptop Riser,22,22,done,2026-10-13,2026-10-13,2026-10-13,M5 (replaces 00004)
+WH/MO/00006,[FG-001] Desk Organizer,11,11,done,2026-10-13,2026-10-15,2026-10-15,M7
+WH/MO/00007,[FG-003] Cable Tray,12,12,done,2026-10-13,2026-10-15,2026-10-15,M7

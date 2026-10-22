@@ -1,0 +1,6 @@
+bill,vendor,po,bill_date,due_date,amount_untaxed,amount_total,amount_due,payment_state
+BILL/2026/10/0001,Fastline Industrial,P00004,2026-10-10,2026-11-09,131.84,139.75,0,paid
+BILL/2026/10/0002,Packwell Packaging,P00005,2026-10-10,2026-11-09,236.5,250.69,0,paid
+BILL/2026/10/0003,Ironcrest Metalworks,P00002,2026-10-12,2026-11-11,1089.2,1154.55,1154.55,not_paid
+BILL/2026/10/0004,Brightform Aluminum,P00003,2026-10-13,2026-11-12,921.8,977.11,977.11,not_paid
+BILL/2026/10/0005,Greenline Bamboo Supply,P00001,2026-10-22,2026-11-21,981,1039.86,1039.86,not_paid
